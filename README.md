@@ -24,12 +24,27 @@
 ```text
 lib/
 ├── core/
+│   └── app_colors.dart
 ├── models/
+│   └── meal.dart
 ├── pages/
+│   ├── add_recipe_page.dart
+│   ├── favorite_page.dart
+│   ├── home_page.dart
+│   ├── main_navigation_page.dart
+│   ├── profile_page.dart
+│   ├── recipe_detail_page.dart
+│   └── recipe_list_page.dart
 ├── services/
+│   ├── favorite_service.dart
+│   ├── meal_service.dart
+│   └── translation_service.dart
 ├── widgets/
+│   └── bottom_nav_bar.dart
 └── main.dart
 ```
+
+Teknologi yang Digunakan
 
 Aplikasi menggunakan API untuk mengambil data resep dan layanan MyMemory untuk menerjemahkan langkah memasak. Favorit disimpan secara lokal. Fitur publikasi resep, penyimpanan profil permanen, dan autentikasi belum terhubung ke backend.
 
