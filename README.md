@@ -3,9 +3,8 @@
 
 - **Nama:** Mursiyah Dwi Erlena
 - **NIM:** 240605110010
-- **Kelas:** F
-- **Mata Kuliah:** Mobile Programming Praktikum
-- **Dosen Pengampu:** Khadijah Fahmi Hayati Holle, S.Kom., M.Kom
+- **Mata Kuliah:** Mobile Programming
+
 
 ## Deskripsi
 **JajanYuk** merupakan aplikasi resep dessert berbasis Flutter yang membantu pengguna menjelajahi resep, melihat bahan dan langkah memasak, serta menyimpan resep favorit. Aplikasi menggunakan API TheMealDB sebagai sumber data resep.
